@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1674233659 source:c:\users\utilisateur\documents\oop\bataille_navale_v2\main.cpp
+	<iostream>
+	<string.h>
+	"Boat.h"
+	"AircraftCarrier.h"
+	"Cruiser.h"
+	"Destroyer.h"
+	"Submarine.h"
+
+1673048974 c:\users\utilisateur\documents\oop\bataille_navale_v2\functions.cpp
+	<stdint.h>
+	<string.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1673862653 c:\users\utilisateur\documents\oop\bataille_navale_v2\include\boat.h
+	<string>
+
+1673795227 c:\users\utilisateur\documents\oop\bataille_navale_v2\include\aircraftcarrier.h
+	"Boat.h"
+	<string>
+
+1673795231 c:\users\utilisateur\documents\oop\bataille_navale_v2\include\cruiser.h
+	"Boat.h"
+	<string>
+
+1673795235 c:\users\utilisateur\documents\oop\bataille_navale_v2\include\destroyer.h
+	"Boat.h"
+	<string>
+
+1673795239 c:\users\utilisateur\documents\oop\bataille_navale_v2\include\submarine.h
+	"Boat.h"
+	<string>
+
